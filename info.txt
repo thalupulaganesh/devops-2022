@@ -1,1 +1,3 @@
 this is create for git
+git is software tool
+git is weldy used
